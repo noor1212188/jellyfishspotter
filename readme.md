@@ -1,16 +1,10 @@
-# Project Name
+## Jellyfish_Identifyer
 
- Add short description of project here > 
+My project helps people who swim in the ocean often avoid dangerous stings from certain types of jellyfish. Some people may get startled by seeing a jellyfish in the water although they are not all harmful. My project helps identify which jellyfish might be harmful, and which jellyfish you don't have to worry about when you encounter it.
 
-![add image descrition here](direct image link here)
+## The code
 
-## The Algorithm
+My code consists of numerous images of certain types of jellyfish from different datatypes. When you run the code it inserts a new file that shows someone whether the jellyfish they spotted is safe or dangerous.
 
-Add an explanation of the algorithm and how it works. Make sure to include details about how the code works, what it depends on, and any other relevant info. Add images or other descriptions for your project here. 
-
-## Running this project
-
-1. Add steps for running this project.
-2. Make sure to include any required libraries that need to be installed for your project to run.
-
-[View a video explanation here](video link)
+## Demo
+https://drive.google.com/file/d/1_1vvg3ohkhTvuuh4kzW1jYM3fKUpTGn7/view?usp=sharing
